@@ -1,0 +1,20 @@
+body {
+	background-image:
+		url("https://img-fotki.yandex.ru/get/67890/136164467.17/0_12bc81_21263ac1_orig.png")
+}
+
+.p1 {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin: -100px 0 0 -100px;
+}
+
+p:first-line {
+	color: blue;
+}
+
+p:first-letter {
+	color: red;
+	font-size: 150%;
+}
